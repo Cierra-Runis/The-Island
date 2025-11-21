@@ -3,7 +3,7 @@ title: "It's Not Failure That Matters, But How You Recover"
 sidebar_position: 17
 ---
 
-![CHAPTER 17 IT'S NOT FAILURE THAT MATTERS, BUT HOW YOU RECOVER](../images/Broo_9780399181788_epub3_019_r1.jpg)
+![CHAPTER 17 IT'S NOT FAILURE THAT MATTERS, BUT HOW YOU RECOVER](/img/docs/Broo_9780399181788_epub3_019_r1.jpg)
 
 I’d like to say that it was a nightmare that woke me in such a funk. It would have been a nice excuse. But the truth is that, just like the first time, I didn’t remember anything. Even if I had, I doubt it could have competed with the horrible memories of what I’d done the day before. Still shrouded in guilt, still replaying those squawking cries, I slouched slowly downstairs, and practically collided with a creeper.
 

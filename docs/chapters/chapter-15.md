@@ -3,7 +3,7 @@ title: 'Take Care of Your Environment So It Can Take Care of You'
 sidebar_position: 15
 ---
 
-![CHAPTER 15 TAKE CARE OF YOUR ENVIRONMENT SO IT CAN TAKE CARE OF YOU](../images/Broo_9780399181788_epub3_017_r1.jpg)
+![CHAPTER 15 TAKE CARE OF YOUR ENVIRONMENT SO IT CAN TAKE CARE OF YOU](/img/docs/Broo_9780399181788_epub3_017_r1.jpg)
 
 Standing on the edge of the cliff, feeling my courage and confidence return, I called out, “Not leaving yet, ya hear me? I’m just getting started down here!”
 

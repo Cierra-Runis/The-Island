@@ -3,7 +3,7 @@ title: 'Nothing Clears the Mind Like Sleep'
 sidebar_position: 10
 ---
 
-![CHAPTER 10 NOTHING CLEARS THE MIND LIKE SLEEP](../images/Broo_9780399181788_epub3_012_r1.jpg)
+![CHAPTER 10 NOTHING CLEARS THE MIND LIKE SLEEP](/img/docs/Broo_9780399181788_epub3_012_r1.jpg)
 
 That night my stomach growled along with the undead vermin. Watching them spawn through the safety of my observation bubble, I actually found myself staring hungrily at the roving mobs, impatiently hoping for the dawn to turn them into bits of disgusting mush.
 

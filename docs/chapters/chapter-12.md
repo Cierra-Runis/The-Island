@@ -3,7 +3,7 @@ title: 'Risk and Reward'
 sidebar_position: 12
 ---
 
-![CHAPTER 12 RISK AND REWARD](../images/Broo_9780399181788_epub3_014_r1.jpg)
+![CHAPTER 12 RISK AND REWARD](/img/docs/Broo_9780399181788_epub3_014_r1.jpg)
 
 “Good morning,” I called out to my grazing friends. “Look what I just learned.”
 

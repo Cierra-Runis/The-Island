@@ -3,7 +3,7 @@ title: "Don't Assume Anything"
 sidebar_position: 3
 ---
 
-![CHAPTER 3 DON’T ASSUME ANYTHING](../images/Broo_9780399181788_epub3_005_r1.jpg)
+![CHAPTER 3 DON’T ASSUME ANYTHING](/img/docs/Broo_9780399181788_epub3_005_r1.jpg)
 
 “What’s my next move?” I asked the darkness. Given that I was trapped, literally with my back to the wall, with a snarling corpse just a handful of dirt away, the options seemed pretty limited.
 

@@ -3,7 +3,7 @@ title: 'The Way'
 sidebar_position: 8
 ---
 
-![CHAPTER 8 THE WAY](../images/Broo_9780399181788_epub3_010_r1.jpg)
+![CHAPTER 8 THE WAY](/img/docs/Broo_9780399181788_epub3_010_r1.jpg)
 
 I was thinking of crafting items in this world, how the process could be mental as well as physical.
 

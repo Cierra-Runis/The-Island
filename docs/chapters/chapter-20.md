@@ -3,7 +3,7 @@ title: 'Revenge Hurts Only You'
 sidebar_position: 20
 ---
 
-![CHAPTER 20 REVENGE HURTS ONLY YOU](../images/Broo_9780399181788_epub3_022_r1.jpg)
+![CHAPTER 20 REVENGE HURTS ONLY YOU](/img/docs/Broo_9780399181788_epub3_022_r1.jpg)
 
 I’m not sure if this world lets you have a spring in your step, but the next morning I sure felt like it did. Moseying down for another sure-to-be successful mining adventure, I couldn’t have been in a better mood. Armed with repaired tools and weapons and a pack full of all kinds of food, I felt ready for anything. What I wasn’t ready for was an age-old enemy waiting to sabotage my new, seemingly invincible winning streak.
 

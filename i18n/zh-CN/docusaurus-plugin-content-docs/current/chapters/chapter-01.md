@@ -3,7 +3,7 @@ title: 'Never Give Up'
 sidebar_position: 1
 ---
 
-![CHAPTER 1 NEVER GIVE UP](../images/Broo_9780399181788_epub3_003_r1.jpg)
+![CHAPTER 1 NEVER GIVE UP](/img/docs/Broo_9780399181788_epub3_003_r1.jpg)
 
 _Drowning!_
 

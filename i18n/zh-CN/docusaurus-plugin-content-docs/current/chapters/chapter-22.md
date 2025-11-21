@@ -3,7 +3,7 @@ title: 'The End and the Beginning'
 sidebar_position: 22
 ---
 
-![CHAPTER 22 THE END AND THE BEGINNING](../images/Broo_9780399181788_epub3_024_r1.jpg)
+![CHAPTER 22 THE END AND THE BEGINNING](/img/docs/Broo_9780399181788_epub3_024_r1.jpg)
 
 I moved silently, or at least as silently as this world would let me. PAT-PAT-PAT went my armored feet, with the occasional POP of a placed signpost. Following the compass needle, I headed in what I thought was the direction of the spiders’ hall.
 

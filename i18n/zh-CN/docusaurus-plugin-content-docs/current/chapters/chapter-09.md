@@ -3,7 +3,7 @@ title: 'Friends Keep You Sane'
 sidebar_position: 9
 ---
 
-![CHAPTER 9 FRIENDS KEEP YOU SANE](../images/Broo_9780399181788_epub3_011_r1.jpg)
+![CHAPTER 9 FRIENDS KEEP YOU SANE](/img/docs/Broo_9780399181788_epub3_011_r1.jpg)
 
 “This is gonna be a good night,” I boasted to the watching cow. “Not only do I have iron to work with, but”—I held up a handful of torches—“I’m also gonna prove that fire keeps the bad guys away.”
 

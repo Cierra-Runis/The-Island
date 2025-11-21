@@ -3,7 +3,7 @@ title: 'Books Make the World Bigger'
 sidebar_position: 19
 ---
 
-![CHAPTER 19 BOOKS MAKE THE WORLD BIGGER](../images/Broo_9780399181788_epub3_021_r1.jpg)
+![CHAPTER 19 BOOKS MAKE THE WORLD BIGGER](/img/docs/Broo_9780399181788_epub3_021_r1.jpg)
 
 My second expedition into the mineshaft ended almost as quickly as it started. I must have been down there for only a few minutes before I found another one of those minecarts. You don’t need to hear about the couple of zombies on the way. Moan, chop, poof—you get it.
 

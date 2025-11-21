@@ -3,7 +3,7 @@ title: 'Details Make the Difference'
 sidebar_position: 4
 ---
 
-![CHAPTER 4 DETAILS MAKE THE DIFFERENCE](../images/Broo_9780399181788_epub3_006_r1.jpg)
+![CHAPTER 4 DETAILS MAKE THE DIFFERENCE](/img/docs/Broo_9780399181788_epub3_006_r1.jpg)
 
 By the time I reached the top of the hill, my mind was like quivering Jell-O.
 

@@ -3,7 +3,7 @@ title: 'Knowledge, Like a Seed, Needs the Right Time to Bloom'
 sidebar_position: 21
 ---
 
-![CHAPTER 21 KNOWLEDGE, LIKE A SEED, NEEDS THE RIGHT TIME TO BLOOM](../images/Broo_9780399181788_epub3_023_r1.jpg)
+![CHAPTER 21 KNOWLEDGE, LIKE A SEED, NEEDS THE RIGHT TIME TO BLOOM](/img/docs/Broo_9780399181788_epub3_023_r1.jpg)
 
 “How do I survive?” I asked the darkness. “What’s my next move?”
 

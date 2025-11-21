@@ -3,7 +3,7 @@ title: What I've Learned from Minecraft
 sidebar_position: 101
 ---
 
-![WHAT I'VE LEARNED FROM THE WORLD OF MINECRAFT](./images/Broo_9780399181788_epub3_025_r1.jpg)
+![WHAT I'VE LEARNED FROM THE WORLD OF MINECRAFT](/img/docs/Broo_9780399181788_epub3_025_r1.jpg)
 
 1. Keep going, never give up.
 

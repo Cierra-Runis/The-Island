@@ -3,7 +3,7 @@ title: 'Courage Is a Full-Time Job'
 sidebar_position: 11
 ---
 
-![CHAPTER 11 COURAGE IS A FULL-TIME JOB](../images/Broo_9780399181788_epub3_013_r1.jpg)
+![CHAPTER 11 COURAGE IS A FULL-TIME JOB](/img/docs/Broo_9780399181788_epub3_013_r1.jpg)
 
 I’d be lying if I said I remembered my dream, or even if I had any, but waking up the next morning confirmed what a good night’s sleep could do for my mind. Imagine walking through fog, not so thick that you can’t see your hand in front of your face, but just thick enough to blot out the landscape. That’d been me for so many sleepless days and nights. Now the fog had lifted and I could finally see where I was going.
 

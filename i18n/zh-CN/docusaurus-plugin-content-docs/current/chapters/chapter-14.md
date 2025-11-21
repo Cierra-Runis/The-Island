@@ -3,7 +3,7 @@ title: 'Always Be Aware of Your Surroundings'
 sidebar_position: 14
 ---
 
-![CHAPTER 14 ALWAYS BE AWARE OF YOUR SURROUNDINGS](../images/Broo_9780399181788_epub3_016_r1.jpg)
+![CHAPTER 14 ALWAYS BE AWARE OF YOUR SURROUNDINGS](/img/docs/Broo_9780399181788_epub3_016_r1.jpg)
 
 Yeah, I was happy for the shield, but dude, did it take some practice!
 

@@ -3,7 +3,7 @@ title: 'Panic Drowns Thought'
 sidebar_position: 2
 ---
 
-![CHAPTER 2 PANIC DROWNS THOUGHT](../images/Broo_9780399181788_epub3_004_r1.jpg)
+![CHAPTER 2 PANIC DROWNS THOUGHT](/img/docs/Broo_9780399181788_epub3_004_r1.jpg)
 
 Using my new “power,” I knocked out the other leaf blocks on the rest of the trees. I not only came away with two more apples, but a critical discovery about my belt and pack.
 

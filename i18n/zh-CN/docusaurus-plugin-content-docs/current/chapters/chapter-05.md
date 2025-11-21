@@ -3,7 +3,7 @@ title: 'Be Grateful for What You Have'
 sidebar_position: 5
 ---
 
-![CHAPTER 5 BE GRATEFUL FOR WHAT YOU HAVE](../images/Broo_9780399181788_epub3_007_r1.jpg)
+![CHAPTER 5 BE GRATEFUL FOR WHAT YOU HAVE](/img/docs/Broo_9780399181788_epub3_007_r1.jpg)
 
 I threw open my door just in time to see the last of the smoke dissolve. At my feet was another pile of rotten flesh…and no shovel. Whether it had burned with its owner or vanished according to some rule of this world, I couldn’t say. I also couldn’t waste a minute mourning its loss. This was going to be an awesome day, I could feel it. Last night I’d turned the corner on shelter, and now I was ready to kiss hunger goodbye.
 

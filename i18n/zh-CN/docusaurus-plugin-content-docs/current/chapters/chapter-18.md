@@ -3,7 +3,7 @@ title: 'When Trying to Tell Yourself Something, Listen!'
 sidebar_position: 18
 ---
 
-![CHAPTER 18 WHEN TRYING TO TELL YOURSELF SOMETHING, LISTEN!](../images/Broo_9780399181788_epub3_020_r1.jpg)
+![CHAPTER 18 WHEN TRYING TO TELL YOURSELF SOMETHING, LISTEN!](/img/docs/Broo_9780399181788_epub3_020_r1.jpg)
 
 “Ya know,” I said to my friends the next morning, “losing that house might be one of the best things that’s ever happened to me on this island.”
 

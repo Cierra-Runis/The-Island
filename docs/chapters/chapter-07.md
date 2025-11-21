@@ -3,7 +3,7 @@ title: 'Take Life in Steps'
 sidebar_position: 7
 ---
 
-![CHAPTER 7 TAKE LIFE IN STEPS](../images/Broo_9780399181788_epub3_009_r1.jpg)
+![CHAPTER 7 TAKE LIFE IN STEPS](/img/docs/Broo_9780399181788_epub3_009_r1.jpg)
 
 Smiling up at the sun, my stomach brought me back down to earth. I wasn’t too hungry yet, but now that I’d eaten all I had left, the search for food had to be today’s goal.
 

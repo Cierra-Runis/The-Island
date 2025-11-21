@@ -3,7 +3,7 @@ title: 'Everything Has a Price'
 sidebar_position: 16
 ---
 
-![CHAPTER 16 EVERYTHING HAS A PRICE](../images/Broo_9780399181788_epub3_018_r1.jpg)
+![CHAPTER 16 EVERYTHING HAS A PRICE](/img/docs/Broo_9780399181788_epub3_018_r1.jpg)
 
 I didn’t intend to build a whole house. All I wanted to do was move the chicken coop. I hadn’t factored that structure into my original environmental proclamation, so once I started scouting for a new location, I realized my options were limited. The eastern beach was too narrow—and too crowded, when you throw in the expanding garden—so the only other alternative was the hill.
 

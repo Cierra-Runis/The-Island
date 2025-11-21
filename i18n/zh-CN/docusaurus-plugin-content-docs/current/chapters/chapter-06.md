@@ -3,7 +3,7 @@ title: 'Overconfidence'
 sidebar_position: 6
 ---
 
-![CHAPTER 6 OVERCONFIDENCE](../images/Broo_9780399181788_epub3_008_r1.jpg)
+![CHAPTER 6 OVERCONFIDENCE](/img/docs/Broo_9780399181788_epub3_008_r1.jpg)
 
 The chicken was delectable, but it wasn’t completely filling. “Your turn,” I told the egg, to which the egg could have answered “that’s what you think.”
 

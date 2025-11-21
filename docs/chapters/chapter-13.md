@@ -3,7 +3,7 @@ title: 'When the World Changes...'
 sidebar_position: 13
 ---
 
-![CHAPTER 13 WHEN THE WORLD CHANGES . . . ​](../images/Broo_9780399181788_epub3_015_r1.jpg)
+![CHAPTER 13 WHEN THE WORLD CHANGES . . . ​](/img/docs/Broo_9780399181788_epub3_015_r1.jpg)
 
 “I have to change,” I told Moo. “Now that I know mining includes monsters, I have to change the Planning and Preparing part of my Five P’s.”
 
