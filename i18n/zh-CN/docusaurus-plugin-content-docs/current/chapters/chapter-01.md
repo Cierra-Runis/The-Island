@@ -17,7 +17,7 @@ _Who cares! How much air do I have left? Just get to it. Swim!_
 
 My lungs ballooned, little bubbles escaping from my lips, racing me for the distant light. I kicked and clawed the water like a caged animal. Now I could see it, a ceiling of ripples coming closer with each desperate stroke. Closer, but still so far away. My body ached, my lungs burned.
 
-_Swim!_ _SWIM!_
+_Swim! SWIM!_
 
 CRACK!
 

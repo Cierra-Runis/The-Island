@@ -11,7 +11,7 @@ For a long while, I tried to just focus on my breathing, clearing my mind, letti
 
 How much did I have? Was I already suffocating? What did suffocation feel like? I tried to sense any changes in my body, any feelings that weren’t there before. And that’s when I noticed that all the pain from my injuries was gone. Both my head and ankle felt fine. My stomach, on the other hand, felt completely empty. I chomped down another apple, trying to make sense of what was happening.
 
-_Am I losing oxygen to the brain,_ I wondered, _or did I just heal super fast?_ _Seriously, am I a superhero?_ The thought gave me a sudden rush of hope.
+_Am I losing oxygen to the brain,_ I wondered, _or did I just heal super fast? Seriously, am I a superhero?_ The thought gave me a sudden rush of hope.
 
 The zombie groaned.
 
@@ -75,7 +75,7 @@ I’d probably know a lot sooner than I wanted to. Even though dawn had only bee
 
 “Thanks,” I said sarcastically, then turned to climb back down what I was now calling Disappointment Hill. For a moment I hesitated, wondering if I should build a signal fire. Isn’t that what people did when they were marooned on an island? Maybe, but I had no idea how to do it.
 
-What I did know how to do, though, was dig. Using nothing but my hands I punched out enough dirt blocks to spell the word “HELP!” _Maybe_ _a low-flying airplane or even a high-flying satellite will see it,_ I thought. _Someone’ll come along_. I was still clinging to the idea that somebody was going to swoop in and save me, that all I had to do was last a night or two until they did. I might have accepted that this was a whole new world, but I didn’t stop to consider what that really meant. I would though, later, when I got myself lost at sea…again.
+What I did know how to do, though, was dig. Using nothing but my hands I punched out enough dirt blocks to spell the word “HELP!” _Maybe a low-flying airplane or even a high-flying satellite will see it,_ I thought. _Someone’ll come along_. I was still clinging to the idea that somebody was going to swoop in and save me, that all I had to do was last a night or two until they did. I might have accepted that this was a whole new world, but I didn’t stop to consider what that really meant. I would though, later, when I got myself lost at sea…again.
 
 But I’m getting ahead of myself.
 
