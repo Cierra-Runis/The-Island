@@ -1,16 +1,16 @@
 ---
-title: Acknowledgments
+title: 致谢
 sidebar_position: 103
 ---
 
-To Jack Swartz, who first introduced the Brooks family to Minecraft.
+致 Jack Swartz，是他让 Brooks 一家认识了 Minecraft。
 
-To the folks at Mojang, Lydia and Junk, for letting me play in their sandbox.
+致 Mojang 的伙伴们，Lydia 和 Junk，感谢让我在你们的沙盒中游玩。
 
-To Ed Victor, who, as always, continues to believe in me.
+致 Ed Victor，一如既往地相信我。
 
-A BIG thank you to Sarah Peed, the Spock to my Kirk.
+特别感谢 Sarah Peed，我的 Kirk 之于 Spock。
 
-To my wife, my beacon, Michelle.
+致我的妻子，我的明灯，Michelle。
 
-And finally to my mom, who, long ago, thought it would be a good idea to read a book called _Robinson Crusoe_ to her son.
+最后致我的母亲，很久以前，她觉得给儿子读一本叫『鲁滨逊漂流记』的书是个好主意。
