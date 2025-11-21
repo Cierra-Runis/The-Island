@@ -57,6 +57,12 @@ const config: Config = {
     },
     navbar: {
       title: 'The Island',
+      items: [
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+      ],
     },
     prism: {
       theme: prismThemes.github,
